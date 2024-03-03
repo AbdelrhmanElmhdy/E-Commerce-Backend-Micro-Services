@@ -1,0 +1,7 @@
+{
+  "internalServerError": "حدث خطأ في الخادم",
+  "emailAlreadyInUse": "البريد الإلكتروني مسجل بالفعل",
+  "invalidEmailOrPassword": "البريد الإلكتروني أو كلمة السر غير صحيحين",
+  "youMustLoginFirst": "يجب تسجيل الدخول أولًا",
+  "loginAndTryAgain": "برجاء تسحيل الدخول و إعادة المحاولة"
+}

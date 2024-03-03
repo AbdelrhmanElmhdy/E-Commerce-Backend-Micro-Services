@@ -1,0 +1,7 @@
+{
+  "internalServerError": "Internal Server Error",
+  "emailAlreadyInUse": "Email is already in use",
+  "invalidEmailOrPassword": "Invalid email or password",
+  "youMustLoginFirst": "You must login first",
+  "loginAndTryAgain": "Please login and try again"
+}
